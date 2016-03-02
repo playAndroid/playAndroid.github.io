@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "任何时候都可以开始做自己想做的事 "
+description: "Just do it "
 header-img: "img/green.jpg"
 ---
 
@@ -41,7 +41,9 @@ header-img: "img/green.jpg"
 
 - [博客：www.groundhao.com](http://www.groundhao.com/)
 
-- [CSDN@groundhao](http://blog.csdn.net/data_hlk)
+- [CSDN@groundhao](http://blog.csdn.net/data_hlk/)
+
+- [微博@groundhao](http://weibo.com/623407344/)
 
 
 
