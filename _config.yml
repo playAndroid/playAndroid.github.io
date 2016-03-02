@@ -1,27 +1,27 @@
 # Site settings
-title: 落笔画忧伤
+title: groundhao
 header-img: "img/twitter.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "落笔画代码"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://groundhao"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " groundhao"
+  email: 
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+douban_username:  groundhao
+twitter_username: groundhao
+github_username: groundhao
+facebook_username: groundhao
+weibo_username: groundhao
+zhihu_username: groundhao
 
 # Build settings  
 # use Github Flavored Markdown !important  

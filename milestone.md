@@ -7,18 +7,15 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://www.feizl.com/upload2007/2012_02/120212012716082.jpg" align="center"></p>
 </center>
 
 
-###代表作：
+###milestone：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《groundhao》](http://www.groundhao.com/)
 
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
 
 
