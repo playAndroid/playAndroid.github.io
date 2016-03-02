@@ -39,7 +39,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.groundhao.com](www.groundhao.com)
+- [博客：www.groundhao.com](http://www.groundhao.com/)
 
 - [CSDN@groundhao](http://blog.csdn.net/data_hlk)
 
