@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，这是文章的基因库"  
+description: "明白了生活,懂得了自己"  
 header-img: "img/semantic.jpg"  
 ---
 
@@ -14,4 +14,4 @@ header-img: "img/semantic.jpg"
 
 ##基因列表
 
-- [暂无](www.groundhao.com)
+- [暂无](http://www.groundhao.com/)
