@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 
-新猿一枚，博客：[groundhao.com](groundhao.com)
+新猿一枚，博客：[groundhao.com](http://groundhao.com/)
 
 
 记录本 **学而不思则罔,思而不学则殆** 。
@@ -30,7 +30,7 @@ header-img: "img/green.jpg"
 
 ###学习网站：
 
-- [codeKK@Android开源项目集合](http://p.codekk.com/)
+- [《codeKK@Android开源项目集合》](http://p.codekk.com/)
 
 - [《Android源码设计模式分析开源项目》](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis/)
 
