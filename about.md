@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Just do it "
+description: "少既是多"
 header-img: "img/green.jpg"
 ---
 
