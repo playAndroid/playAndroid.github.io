@@ -42,11 +42,6 @@ header-img: "img/green.jpg"
 
 - [博客：www.groundhao.com](http://www.groundhao.com/)
 
-- [CSDN@groundhao](http://blog.csdn.net/data_hlk/)
-
-- [微博@groundhao](http://weibo.com/623407344/)
-
-
 
 <center>
     <p><img src="http://www.feizl.com/upload2007/2012_02/120212012716082.jpg" align="center"></p>
