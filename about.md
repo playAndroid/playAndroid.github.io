@@ -30,12 +30,13 @@ header-img: "img/green.jpg"
 
 ###学习网站：
 
-- [《codeKK@Android开源项目集合》](http://p.codekk.com/)
+- [《技术小黑屋》](http://droidyue.com/)
 
-- [《Android源码设计模式分析开源项目》](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis/)
+- [《干货集中营》](http://gank.io/)
 
 - [《Android技术开发周报》](http://www.androidweekly.cn/)
 
+- [《Android 学习资料收集》](https://github.com/Freelander/Android_Data)
 
 ###联系
 
