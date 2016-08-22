@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 错误记录
-date: 2016-06-28
+date: 2016-08-04
 categories: 
 tags: [记录]
 description: 错误记录
