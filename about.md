@@ -41,6 +41,8 @@ header-img: "img/green.jpg"
 ###联系
 
 - [博客：www.groundhao.com](http://www.groundhao.com/)
+- [邮箱:playandroid@foxmail.com](http://www.groundhao.com/)
+
 
 
 <center>
