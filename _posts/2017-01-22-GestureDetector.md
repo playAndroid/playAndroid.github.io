@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GestureDetector---手势检测
-date: 2016-10-20
+date: 2017-01-22
 categories: 
 tags: [记录]
 description: GestureDetector---手势检测

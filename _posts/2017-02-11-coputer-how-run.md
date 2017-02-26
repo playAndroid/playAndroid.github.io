@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 计算机是怎样跑起来的
-date: 2016-02-11
+date: 2017-02-11
 categories: 
 tags: [记录]
 description: 计算机是怎样跑起来的

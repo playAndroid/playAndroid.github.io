@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 深入理解计算机系统--第二章(信息的表示和处理)
-date: 2016-02-1
+date: 2017-02-1
 categories: 
 tags: [记录]
 description: 深入理解计算机系统--第二章(信息的表示和处理)
